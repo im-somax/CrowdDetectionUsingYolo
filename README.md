@@ -1,7 +1,3 @@
-
-#### Github usually doesn't support files larger than 25 Mb. You can find the yolo weights in [My google drive](URL_DRIVE_YOLO_WEIGH) 
-* Download it & move to yolo-coco folder
-
 # For CPU:
 
 ## To run this code in your terminal:
@@ -17,4 +13,4 @@
 ` ***to run your social distance detection project***
 
 #### After you run the last line of command, a window will pop up and after execution of the file a `output.avi` file will be showing up in your directory like this:
-![Output avi gif](URL_GIF)
+![Output avi gif](social distance detection.gif)
