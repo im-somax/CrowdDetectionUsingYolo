@@ -13,4 +13,4 @@
 ` ***to run your social distance detection project***
 
 #### After you run the last line of command, a window will pop up and after execution of the file a `output.avi` file will be showing up in your directory like this:
-![Output avi gif](social distance detection.gif)
+![Output avi gif](https://github.com/im-somax/CrowdDetectionUsingYolo/blob/master/social%20distance%20detection.gif)
